@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+
+.mibtn {
+  @apply ml-4 focus:ring-4 focus:outline-none focus:ring-red-400 focus:shadow-xl p-4 bg-purple-500 text-white rounded-xl;
+}
+
+@tailwind utilities;
+
+
+
